@@ -1,0 +1,44 @@
+[
+    {
+        "id_post": "Mirabel5961641644982074",
+        "author": "Mirabel",
+        "title": "ho cucito una giacca",
+        "body": "  ho cucito una meravigliosa giacca utilizzando le p\n  elli di alcuni topi trovati in giro per la Casita!\n   Š stato davvero meraviglioso perche' cosi' ho pot\n  uto disinfestare e creare arte in un unico colpo",
+        "timestamp": "2022-01-08T12:29:42.074196300Z",
+        "comments": "{\n  \"Bruno\": [\n    {\n      \"text\": \"  NOOOOOOO! T.T Il loro era un amore proibito!\",\n      \"author\": \"Bruno\",\n      \"timestamp\": \"2022-01-08T12:31:53.556018900Z\"\n    }\n  ],\n  \"Augustin\": [\n    {\n      \"text\": \"  Adoro la moda, bel post!\",\n      \"author\": \"Augustin\",\n      \"timestamp\": \"2022-01-09T16:17:38.313166800Z\"\n    }\n  ]\n}",
+        "likes": "{\n  \"Augustin\": {\n    \"author\": \"Augustin\",\n    \"timestamp\": \"2022-01-09T16:17:43.411129600Z\"\n  }\n}",
+        "dislikes": "{\n  \"Bruno\": {\n    \"author\": \"Bruno\",\n    \"timestamp\": \"2022-01-08T12:31:28.695876300Z\"\n  }\n}",
+        "rewcalcitnum": 443,
+        "resratesum": 0,
+        "rewusrs": "[\n  \"Bruno\",\n  \"Augustin\"\n]",
+        "resnewcomm": "[]"
+    },
+    {
+        "id_post": "Guglielmo7281641661655552",
+        "author": "Guglielmo",
+        "title": "Asini",
+        "body": "  ho dato a @Luisa l'incarico di posizionare i miei \n  asini nella stalla, ma gli ho trovati completament\n  e devastati, i pochi soppravvisuti presentavano fe\n  rite come se fossero stati lanciati dentro la stal\n  la, ma ragazzi?! FIND LOGIC?!?",
+        "timestamp": "2022-01-08T17:07:35.552383Z",
+        "comments": "{}",
+        "likes": "{}",
+        "dislikes": "{}",
+        "rewcalcitnum": 282,
+        "resratesum": 0,
+        "rewusrs": "[]",
+        "resnewcomm": "[]"
+    },
+    {
+        "id_post": "Mirabel7671641751844461",
+        "author": "Mirabel",
+        "title": "vaso caduto",
+        "body": "  famiglia...ho rovesciato un vaso...era di plastica\n   e l'ho visto rotolare sulle scale di Casita fino \n  al suo fermarsi in un pianerottolo, per fortuna ne\n  ssuna poianta Š stata ferita!! Scusatemi tanto!",
+        "timestamp": "2022-01-09T18:10:44.461896500Z",
+        "comments": "{\n  \"Camilo\": [\n    {\n      \"text\": \"  Lei vive insieme ai vasi lo saprai, quanto fa il l\\n  oro nome e\\u0027 tardi ormai, sa quel che piantiamo, ri\\n  de se coltiviamo...\",\n      \"author\": \"Camilo\",\n      \"timestamp\": \"2022-01-09T18:12:33.011317500Z\"\n    },\n    {\n      \"text\": \"  scusami Mirabel, sono satato cattivo :(\",\n      \"author\": \"Camilo\",\n      \"timestamp\": \"2022-01-09T18:13:05.118304500Z\"\n    }\n  ],\n  \"AbuelaAlma\": [\n    {\n      \"text\": \"  abbiamo a cuore le nostre piante invece questa qua\\n   e\\u0027 deludente il nostro vaso, va conservato fino a\\n  d ora Mirabel non l\\u0027aveva mai rovesciato ma forse \\n  giunta l\\u0027ora di ANDARSE A PIGLIA\\u0027 UN GELATO\",\n      \"author\": \"AbuelaAlma\",\n      \"timestamp\": \"2022-01-09T18:17:52.848276500Z\"\n    }\n  ]\n}",
+        "likes": "{\n  \"AbuelaAlma\": {\n    \"author\": \"AbuelaAlma\",\n    \"timestamp\": \"2022-01-09T18:19:14.051274500Z\"\n  }\n}",
+        "dislikes": "{\n  \"Camilo\": {\n    \"author\": \"Camilo\",\n    \"timestamp\": \"2022-01-09T18:12:42.472305900Z\"\n  }\n}",
+        "rewcalcitnum": 37,
+        "resratesum": 0,
+        "rewusrs": "[\n  \"Camilo\",\n  \"AbuelaAlma\"\n]",
+        "resnewcomm": "[]"
+    }
+]
